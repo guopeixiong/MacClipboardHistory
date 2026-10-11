@@ -10,3 +10,5 @@ Mac剪切板小工具
 3.把生成的ClipboardHistory.app 复制到 「应用程序」 里
 
 4.打开系统设置-隐私与安全性-辅助功能-点击加号添加刚刚的ClipboardHistory.app并打开权限
+
+### 使用快捷键 command + shift + v 呼出剪切板 点击任意历史项快速粘贴
